@@ -1,4 +1,6 @@
 # EX-NO-4-IMPLEMETATION-OF-VIGENERE-CIPHER
+## NAME:AMMINENI MOKSHASREE
+## REG.NO:2305001001
  
 
 ## AIM:
@@ -71,6 +73,8 @@ int main() {
 }
 ```
 ## OUTPUT
+<img width="623" height="315" alt="image" src="https://github.com/user-attachments/assets/73895558-01b1-47a7-9524-93d8854df109" />
+
 
 ## RESULT
 
